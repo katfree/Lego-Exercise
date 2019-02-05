@@ -1,0 +1,46 @@
+{
+  "LegoCreations": [
+    {
+      "creator": "Connor",
+      "creation": "Blue Dog",
+      "color": "Blue",
+      "shape": "Dog",
+      "id": 4
+    },
+    {
+      "creator": "Connor",
+      "creation": "Red Dog",
+      "color": "Red",
+      "shape": "Dog",
+      "id": 5
+    },
+    {
+      "creator": "Name",
+      "creation": "lego",
+      "color": "1",
+      "shape": "square",
+      "id": 6
+    },
+    {
+      "creator": "Name",
+      "creation": "lego",
+      "color": "1",
+      "shape": "square",
+      "id": 7
+    },
+    {
+      "creator": "Katerina",
+      "creation": "lego",
+      "color": "4",
+      "shape": "square",
+      "id": 8
+    },
+    {
+      "creator": "kat",
+      "creation": "lego",
+      "color": "Black",
+      "shape": "cube",
+      "id": 9
+    }
+  ]
+}
